@@ -1,0 +1,40 @@
+$remove-color: #888;
+$remove-hover-color: #555;
+$remove-width: 20px;
+
+$selection-color: #444;
+
+$border-color: #a2a2a2;
+$border-radius: 0;
+
+$focus-border-color: #ec1c2d;
+
+$container-height: 28px;
+
+$selection-bg-top-color: black;
+$selection-bg-bottom-color: black;
+
+$text-color: white;
+
+$container-placeholder-color: #999;
+
+$container-focus-border-color: blue;
+
+$selection-opened-bg-top-color: $selection-bg-bottom-color;
+$selection-opened-bg-bottom-color: $selection-bg-top-color;
+
+$dropdown-z-index: 1;
+
+$dropdown-bg-color: $selection-bg-top-color;
+
+$results-max-height: 200px;
+$results-nested-padding: 20px;
+
+$results-choice-bg-hover-color: darken(#ec1c2d, 10%);
+$results-choice-fg-hover-color: white;
+
+$results-choice-fg-unselectable-color: grey;
+
+$arrow-bg-top-color: #ec1c2d;
+$arrow-bg-bottom-color: #ec1c2d;
+$arrow-color: white;
